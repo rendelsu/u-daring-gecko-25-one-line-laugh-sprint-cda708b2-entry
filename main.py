@@ -1,5 +1,6 @@
 import os
 
+# One original line, everyday life, twist at the end; gate is 1-200 chars.
 LINE = "My screen-time report reads like a breakup letter from someone who still lives with me."
 
 
